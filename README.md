@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aran-nascimento and I am a Computational Physics Student.
-- 👀 I’m interested in many different things, anything you show me will make me be curious. I like food (hmmm, um cuscuz) and books).
-- 🌱 I’m currently learning about math, physics aaaaand automation of tables in databases in Data Warehouse, a little bit of SQL, Python and Pyspark.
+- 👋 Hi, I’m @aran-nascimento and I am a Applied Mathematics and Scientific Computing Student.
+- 👀 I’m interested in many different things, anything you show me will make me curious. I like food (hmmm, um cuscuz) and books.
+- 🌱 I’m currently learning about math, physics and automation of ETL processes, a little bit of SQL, Python/PySpark and AWS Services. 
 - 📫 Nice to meet you! 
 
 <!---
